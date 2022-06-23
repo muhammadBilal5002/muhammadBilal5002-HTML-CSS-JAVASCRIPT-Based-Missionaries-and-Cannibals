@@ -1,0 +1,14 @@
+.btn {
+    position: relative;
+}
+
+#boat{
+    position: relative;
+    width: 200px;
+    height: 150px;
+}
+
+.skull{
+    position: relative;
+    width: 50px;
+}
